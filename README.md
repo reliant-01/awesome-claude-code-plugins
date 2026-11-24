@@ -130,6 +130,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [claude-snapshot](https://github.com/adhenawer/claude-snapshot) - Portable `.tar.gz` snapshots of your Claude Code setup (settings, hooks, plugins, MCPs) with diff-before-apply and `.bak` rollback for migration and backup across machines.
 - [notify](https://github.com/ApurvBazari/claude-plugins)
 - [retro-daily](./plugins/retro-daily)
+- [reliant-forge](https://github.com/reliant-labs/forge) - Deploy a Vite, Next.js or Dockerfile app to a live URL with no account, via the Forge MCP server and a deploy skill. `/plugin marketplace add reliant-labs/forge`
 
 ### Business Sales
 - [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
